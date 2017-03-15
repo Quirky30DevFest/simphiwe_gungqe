@@ -1,0 +1,32 @@
+sudo apt-get purge apache2
+sudo apt-get autoremove 
+sudo apt-get autoclean
+apache2 -v
+
+sudo apt-get purge php.*
+
+ sudo systemctl restart apache2.service 
+ sudo service apache2 stop 
+
+ (then uninstall apache2 and its dependent packages. use purge option intead of remove with apt-get command. the former option will try to remove dependent packages)
+
+ sudo apt-get purge apache2 apache2-utils apache2.2-bin apache2-common
+ sudo apt-get autoremove
+ sudo apt-get install apache2 apache2-utills
+
+ ASK TERMINAL IF THE PHP IS WORKING
+ php -v
+
+ HOW TO REMOVE YOUR PHP
+
+  sudo apt-get purge php7.0
+
+   HOW TO INSTALL PHP ON TERMINAL
+   sudo apt-get install php7.0 php7.0-mysql libapache2-mod-php7.0 php7.0-cli php7.0-cgi php7.0-gd
+   sudo nano var/www/html/info.php
+   <?php
+    phpinfo();
+    ?>
+    HOW TO REMOVE PHP on terminal
+ sudo apt-get purge php.*
+ * - means al

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10bcd0a9b698b9a6c2148895816769961500000015730047">
+  <window id="10bcd0a9b698b9a6c2148895820924858500000015730048" title="About - Git - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="70" y="112" width="1280" height="760"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

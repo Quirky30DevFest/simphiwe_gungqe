@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/quirky/Downloads/wordpress-4.7.2.zip" added="2017-03-06T13:20:23Z" modified="2017-03-06T16:24:21Z" visited="2017-03-06T13:20:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-06T16:23:03Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-03-06T16:24:21Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-03-06T16:24:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads" added="2017-03-06T13:20:38Z" modified="2017-03-07T07:17:52Z" visited="2017-03-06T13:20:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-03-07T07:17:52Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/wordpress/wp-config.php" added="2017-03-06T16:30:24Z" modified="2017-03-06T16:31:12Z" visited="2017-03-06T16:30:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-03-06T16:30:24Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-06T16:31:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/wordpress/wp-config-sample.php" added="2017-03-06T16:31:21Z" modified="2017-03-06T16:31:53Z" visited="2017-03-06T16:31:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-06T16:31:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/latest.tar.gz.1" added="2017-03-06T16:54:47Z" modified="2017-03-06T16:54:47Z" visited="2017-03-06T16:54:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-03-06T16:54:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/latest.tar.gz" added="2017-03-06T16:54:53Z" modified="2017-03-06T16:54:53Z" visited="2017-03-06T16:54:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-03-06T16:54:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/wordpress/wp-config.php" added="2017-03-06T16:55:07Z" modified="2017-03-06T16:55:36Z" visited="2017-03-06T16:55:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-06T16:55:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/wordpress-4.7.3(2).zip" added="2017-03-07T07:16:27Z" modified="2017-03-07T07:16:27Z" visited="2017-03-07T07:16:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-07T07:16:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/wordpress-4.7.3(1).zip" added="2017-03-07T07:16:27Z" modified="2017-03-07T07:16:27Z" visited="2017-03-07T07:16:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-07T07:16:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/wordpress-4.7.3.zip" added="2017-03-07T07:16:27Z" modified="2017-03-07T07:16:27Z" visited="2017-03-07T07:16:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-07T07:16:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/wordpress-4.7.3(3).zip" added="2017-03-07T07:17:20Z" modified="2017-03-07T07:17:46Z" visited="2017-03-07T07:17:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-07T07:17:20Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-03-07T07:17:46Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-03-07T07:17:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/read%20me%20file" added="2017-03-07T07:49:39Z" modified="2017-03-13T08:13:59Z" visited="2017-03-07T07:49:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-13T08:13:59Z" count="8"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-03-08T08:10:21Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/info.php" added="2017-03-07T09:24:39Z" modified="2017-03-08T11:32:48Z" visited="2017-03-07T09:24:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-03-07T09:28:06Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-08T11:32:48Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/wordpress/wp-config.php" added="2017-03-08T09:16:22Z" modified="2017-03-08T11:47:19Z" visited="2017-03-08T09:16:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-08T11:47:19Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-03-08T11:40:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/quirky/Downloads/vantage.1.5.8.zip" added="2017-03-09T10:05:20Z" modified="2017-03-09T10:05:20Z" visited="2017-03-09T10:05:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-09T10:05:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/vsftpd.conf" added="2017-03-13T07:53:17Z" modified="2017-03-13T07:53:17Z" visited="2017-03-13T07:53:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-13T07:53:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/lib/apache2/site/enabled_by_admin/000-default" added="2017-03-13T13:37:58Z" modified="2017-03-13T13:37:58Z" visited="2017-03-13T13:37:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-13T13:37:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/sites-available/000-default.conf" added="2017-03-13T13:43:46Z" modified="2017-03-13T13:43:46Z" visited="2017-03-13T13:43:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-13T13:43:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/sites-available/default-ssl.conf" added="2017-03-13T13:45:27Z" modified="2017-03-13T13:45:27Z" visited="2017-03-13T13:45:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-13T13:45:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/quirky/7C12-F4CD/command.odt" added="2017-03-14T12:11:57Z" modified="2017-03-14T12:12:04Z" visited="2017-03-14T12:11:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-03-14T12:11:57Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-03-14T12:12:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="1060312bd4f17ad714894827272854200000015190048">
+  <window id="1060312bd4f17ad7148948279463139400000015190050" title="Linux - Installfest - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1280" height="732"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

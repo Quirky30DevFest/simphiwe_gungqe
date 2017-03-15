@@ -1,0 +1,2 @@
+
+(indicator-power-service:1676): Indicator-Power-WARNING **: Error getting properties for UPower device '/org/freedesktop/UPower/devices/battery_BAT0': GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/UPower/devices/battery_BAT0

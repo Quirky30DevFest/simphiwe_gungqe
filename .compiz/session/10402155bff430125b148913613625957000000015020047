@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10402155bff430125b148913613625957000000015020047">
+  <window id="10402155bff430125b148938951786557400000015020050" title="Apache2 Ubuntu Default Page: It works - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1280" height="760"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

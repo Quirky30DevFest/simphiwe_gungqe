@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/quirky/.cache/upstart/ssh-agent.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/indicator-sound.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/dbus.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/unity-panel-service.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/unity7.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/gpg-agent.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/at-spi2-registryd.log" 2017-3-14-13:50:8
+"/home/quirky/.cache/upstart/unity-settings-daemon.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/indicator-keyboard.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/window-stack-bridge.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/update-notifier-release.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/gnome-keyring-ssh.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/upstart-event-bridge.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/hud.log" 2017-3-15-9:9:26
+"/home/quirky/.cache/upstart/unity-panel-service-lockscreen.log" 2017-3-14-9:58:57
+"/home/quirky/.cache/upstart/bamfdaemon.log" 2017-3-14-13:50:8
+"/home/quirky/.cache/upstart/indicator-power.log" 2017-3-15-9:0:0

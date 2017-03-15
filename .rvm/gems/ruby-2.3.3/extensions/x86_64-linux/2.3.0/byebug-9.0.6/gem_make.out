@@ -1,0 +1,19 @@
+current directory: /home/quirky/.rvm/gems/ruby-2.3.3/gems/byebug-9.0.6/ext/byebug
+/home/quirky/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20170314-25651-1a1dafp.rb extconf.rb
+creating Makefile
+
+current directory: /home/quirky/.rvm/gems/ruby-2.3.3/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/quirky/.rvm/gems/ruby-2.3.3/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling threads.c
+compiling breakpoint.c
+compiling locker.c
+compiling byebug.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/quirky/.rvm/gems/ruby-2.3.3/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20170314-25651-i3tc27/byebug

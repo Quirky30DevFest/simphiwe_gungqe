@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=My Hood
+Icon=application-default-icon
+Path=/home/quirky/Desktop/My Hood
+Exec=/home/quirky/Desktop/My Hood/My Hood
+StartupNotify=false
+StartupWMClass=My Hood
+OnlyShowIn=Unity;
+X-UnityGenerated=true

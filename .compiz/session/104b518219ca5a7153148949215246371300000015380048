@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<compiz_session id="104b518219ca5a7153148949215246371300000015380048">
+  <window id="104b518219ca5a7153148949352272831500000015380050" title="command.odt - LibreOffice Writer" class="libreoffice-writer" name="libreoffice" command="soffice">
+    <geometry x="65" y="50" width="1485" height="800"/>
+    <workspace index="0"/>
+  </window>
+  <window id="104b518219ca5a7153148949217068691700000015380049" title="Create A Rails App - Installfest - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="320" y="168" width="1280" height="732"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>
