@@ -1,0 +1,52 @@
+header{
+  background-image: url(/home/quirky/images/IMG-20170328-WA0004.jpg);
+  background-size: 100% 100%;
+  
+
+}
+    a {
+      color: white;
+  }
+  h1 {
+    text-align: center;
+     font-size: 70px;
+     color: white;
+     text-shadow: 1px 2px red;
+
+  }
+  img {
+     margin: 40px 0px 0px 0px;
+     border: 7px solid white;
+     border-radius: 20px;
+  }
+  ul {
+    text-align: center;
+    padding: 10px;
+    background: red;
+  }
+  li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  li:hover{
+    background-color: #628bc6;
+    color: black;
+  }
+  h2{
+    text-align: center;
+  
+  }
+  body{
+    background-image: url(/home/quirky/images/Ard7vgo.jpg);
+    text-align: center;
+    background-size: cover;
+  }
+
+
+ p{
+  color: white;
+ }
+ footer{
+color: red;
+  
+}
